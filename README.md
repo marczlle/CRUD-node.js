@@ -12,11 +12,11 @@ https://www.npmjs.com/package/express
 npm express-handlebars
 https://www.npmjs.com/package/express-handlebars
 
-## Funcionalidades e Demonstração da Aplicação
+## Funcionalidades:
 
 O programa é capaz de realizar operações de CREATE, READ, UPDATE e DELETE no banco de dados.
 
-## Desenvolvedora
+## Desenvolvedora:
 
 Marcelle de Paula
 @marczlle
